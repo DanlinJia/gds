@@ -1,0 +1,42 @@
+ 02-06-2022 09:23:11:900 [pid=800636 tid=800636] ERROR  cufio-fs:761 RAID level not supported by cuFile for RAID group : /dev/md0 RAID : raid1
+ 02-06-2022 09:23:11:900 [pid=800636 tid=800636] NOTICE  cufio-fs:397 dumping volume attributes: DEVNAME:/dev/md0,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,MD_LEVEL:raid1,fsid:37931b2ce1311fba0x,numa_node:-1,queue/logical_block_size:4096,
+ 02-06-2022 09:23:11:900 [pid=800636 tid=800636] NOTICE  cufio:1013 cuFileHandleRegister GDS not supported, using cuFile posix read/write with compat mode enabled
+ 02-06-2022 09:24:50:951 [pid=802402 tid=802402] ERROR  cufio-fs:761 RAID level not supported by cuFile for RAID group : /dev/md0 RAID : raid1
+ 02-06-2022 09:24:50:951 [pid=802402 tid=802402] NOTICE  cufio-fs:397 dumping volume attributes: DEVNAME:/dev/md0,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,MD_LEVEL:raid1,fsid:37931b2ce1311fba0x,numa_node:-1,queue/logical_block_size:4096,
+ 02-06-2022 09:24:50:951 [pid=802402 tid=802402] NOTICE  cufio:1013 cuFileHandleRegister GDS not supported, using cuFile posix read/write with compat mode enabled
+ 02-06-2022 09:25:05:706 [pid=802684 tid=802684] ERROR  cufio-fs:761 RAID level not supported by cuFile for RAID group : /dev/md0 RAID : raid1
+ 02-06-2022 09:25:05:706 [pid=802684 tid=802684] NOTICE  cufio-fs:397 dumping volume attributes: DEVNAME:/dev/md0,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,MD_LEVEL:raid1,fsid:37931b2ce1311fba0x,numa_node:-1,queue/logical_block_size:4096,
+ 02-06-2022 09:25:05:706 [pid=802684 tid=802684] NOTICE  cufio:1013 cuFileHandleRegister GDS not supported, using cuFile posix read/write with compat mode enabled
+ 02-06-2022 09:25:19:962 [pid=802780 tid=802780] ERROR  cufio-fs:761 RAID level not supported by cuFile for RAID group : /dev/md0 RAID : raid1
+ 02-06-2022 09:25:19:962 [pid=802780 tid=802780] NOTICE  cufio-fs:397 dumping volume attributes: DEVNAME:/dev/md0,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,MD_LEVEL:raid1,fsid:37931b2ce1311fba0x,numa_node:-1,queue/logical_block_size:4096,
+ 02-06-2022 09:25:19:962 [pid=802780 tid=802780] NOTICE  cufio:1013 cuFileHandleRegister GDS not supported, using cuFile posix read/write with compat mode enabled
+ 02-06-2022 09:25:42:381 [pid=803043 tid=803043] ERROR  cufio-fs:761 RAID level not supported by cuFile for RAID group : /dev/md0 RAID : raid1
+ 02-06-2022 09:25:42:381 [pid=803043 tid=803043] NOTICE  cufio-fs:397 dumping volume attributes: DEVNAME:/dev/md0,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,MD_LEVEL:raid1,fsid:37931b2ce1311fba0x,numa_node:-1,queue/logical_block_size:4096,
+ 02-06-2022 09:25:42:381 [pid=803043 tid=803043] NOTICE  cufio:1013 cuFileHandleRegister GDS not supported, using cuFile posix read/write with compat mode enabled
+ 02-06-2022 09:25:55:884 [pid=803291 tid=803291] ERROR  cufio-fs:761 RAID level not supported by cuFile for RAID group : /dev/md0 RAID : raid1
+ 02-06-2022 09:25:55:884 [pid=803291 tid=803291] NOTICE  cufio-fs:397 dumping volume attributes: DEVNAME:/dev/md0,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,MD_LEVEL:raid1,fsid:37931b2ce1311fba0x,numa_node:-1,queue/logical_block_size:4096,
+ 02-06-2022 09:25:55:884 [pid=803291 tid=803291] NOTICE  cufio:1013 cuFileHandleRegister GDS not supported, using cuFile posix read/write with compat mode enabled
+ 02-06-2022 09:26:30:293 [pid=803790 tid=803790] ERROR  cufio-fs:761 RAID level not supported by cuFile for RAID group : /dev/md0 RAID : raid1
+ 02-06-2022 09:26:30:293 [pid=803790 tid=803790] NOTICE  cufio-fs:397 dumping volume attributes: DEVNAME:/dev/md0,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,MD_LEVEL:raid1,fsid:37931b2ce1311fba0x,numa_node:-1,queue/logical_block_size:4096,
+ 02-06-2022 09:26:30:293 [pid=803790 tid=803790] NOTICE  cufio:1013 cuFileHandleRegister GDS not supported, using cuFile posix read/write with compat mode enabled
+ 02-06-2022 09:26:39:167 [pid=803882 tid=803882] ERROR  cufio-fs:761 RAID level not supported by cuFile for RAID group : /dev/md0 RAID : raid1
+ 02-06-2022 09:26:39:167 [pid=803882 tid=803882] NOTICE  cufio-fs:397 dumping volume attributes: DEVNAME:/dev/md0,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,MD_LEVEL:raid1,fsid:37931b2ce1311fba0x,numa_node:-1,queue/logical_block_size:4096,
+ 02-06-2022 09:26:39:167 [pid=803882 tid=803882] NOTICE  cufio:1013 cuFileHandleRegister GDS not supported, using cuFile posix read/write with compat mode enabled
+ 02-06-2022 09:26:50:786 [pid=804037 tid=804037] ERROR  cufio-fs:761 RAID level not supported by cuFile for RAID group : /dev/md0 RAID : raid1
+ 02-06-2022 09:26:50:786 [pid=804037 tid=804037] NOTICE  cufio-fs:397 dumping volume attributes: DEVNAME:/dev/md0,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,MD_LEVEL:raid1,fsid:37931b2ce1311fba0x,numa_node:-1,queue/logical_block_size:4096,
+ 02-06-2022 09:26:50:786 [pid=804037 tid=804037] NOTICE  cufio:1013 cuFileHandleRegister GDS not supported, using cuFile posix read/write with compat mode enabled
+ 02-06-2022 09:27:00:320 [pid=804268 tid=804268] ERROR  cufio-fs:761 RAID level not supported by cuFile for RAID group : /dev/md0 RAID : raid1
+ 02-06-2022 09:27:00:320 [pid=804268 tid=804268] NOTICE  cufio-fs:397 dumping volume attributes: DEVNAME:/dev/md0,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,MD_LEVEL:raid1,fsid:37931b2ce1311fba0x,numa_node:-1,queue/logical_block_size:4096,
+ 02-06-2022 09:27:00:320 [pid=804268 tid=804268] NOTICE  cufio:1013 cuFileHandleRegister GDS not supported, using cuFile posix read/write with compat mode enabled
+ 02-06-2022 09:27:36:400 [pid=804620 tid=804620] ERROR  cufio-fs:761 RAID level not supported by cuFile for RAID group : /dev/md0 RAID : raid1
+ 02-06-2022 09:27:36:400 [pid=804620 tid=804620] NOTICE  cufio-fs:397 dumping volume attributes: DEVNAME:/dev/md0,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,MD_LEVEL:raid1,fsid:37931b2ce1311fba0x,numa_node:-1,queue/logical_block_size:4096,
+ 02-06-2022 09:27:36:400 [pid=804620 tid=804620] NOTICE  cufio:1013 cuFileHandleRegister GDS not supported, using cuFile posix read/write with compat mode enabled
+ 02-06-2022 09:28:57:560 [pid=805481 tid=805481] ERROR  cufio-fs:761 RAID level not supported by cuFile for RAID group : /dev/md0 RAID : raid1
+ 02-06-2022 09:28:57:560 [pid=805481 tid=805481] NOTICE  cufio-fs:397 dumping volume attributes: DEVNAME:/dev/md0,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,MD_LEVEL:raid1,fsid:37931b2ce1311fba0x,numa_node:-1,queue/logical_block_size:4096,
+ 02-06-2022 09:28:57:560 [pid=805481 tid=805481] NOTICE  cufio:1013 cuFileHandleRegister GDS not supported, using cuFile posix read/write with compat mode enabled
+ 02-06-2022 09:29:22:342 [pid=806459 tid=806459] ERROR  cufio-fs:761 RAID level not supported by cuFile for RAID group : /dev/md0 RAID : raid1
+ 02-06-2022 09:29:22:342 [pid=806459 tid=806459] NOTICE  cufio-fs:397 dumping volume attributes: DEVNAME:/dev/md0,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,MD_LEVEL:raid1,fsid:37931b2ce1311fba0x,numa_node:-1,queue/logical_block_size:4096,
+ 02-06-2022 09:29:22:342 [pid=806459 tid=806459] NOTICE  cufio:1013 cuFileHandleRegister GDS not supported, using cuFile posix read/write with compat mode enabled
+ 02-06-2022 09:29:29:302 [pid=806702 tid=806702] ERROR  cufio-fs:761 RAID level not supported by cuFile for RAID group : /dev/md0 RAID : raid1
+ 02-06-2022 09:29:29:302 [pid=806702 tid=806702] NOTICE  cufio-fs:397 dumping volume attributes: DEVNAME:/dev/md0,ID_FS_TYPE:ext4,ID_FS_USAGE:filesystem,MD_LEVEL:raid1,fsid:37931b2ce1311fba0x,numa_node:-1,queue/logical_block_size:4096,
+ 02-06-2022 09:29:29:302 [pid=806702 tid=806702] NOTICE  cufio:1013 cuFileHandleRegister GDS not supported, using cuFile posix read/write with compat mode enabled
